@@ -1,4 +1,4 @@
-# Wint-Executor
+# Wint Executor
 Roblox lua script executor
 
 
